@@ -17,10 +17,19 @@ This is an unofficial Chrome extension that adds additional functionality to the
 
 ## Installation
 
+### Chrome
 1. Clone or download the repository to your local machine.
 2. Open Google Chrome and navigate to `chrome://extensions/`.
 3. Enable the "Developer mode" toggle switch in the top-right corner of the extensions page.
 4. Click the "Load unpacked" button and select the folder containing the extension's files.
+
+### Firefox - Requires Firefox v116+ 
+1. Clone or download the repository to your local machine.
+2. zip the directory.
+3. Navigate to `about:debugging#/runtime/this-firefox`
+4. Click `Load Temporary Add-on...` and select the extension's .zip file. 
+
+*Note:* Firefox requires submitting an Add-on before it can become a 'Full' Add-on. Until this is done, this Add-on can be loaded 'temporarily' into Firefox. However, upon restarting firefox, it will need to be 're-loaded' using the instructions above. 
 
 The extension should now be installed and active.
 
