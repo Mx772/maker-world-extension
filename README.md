@@ -13,6 +13,7 @@ This is an unofficial Chrome extension that adds additional functionality to the
 - **Gift Card Value**: Estimates the approximate monetary value (in dollars) of the earned Reward Points.
 - **Contest Name**: If the design is part of a contest, the contest name is displayed.
 - **Open** and **Download** buttons: Allows users to easily open or download the default instance of a design directly from the design card.
+- **Notifications**: Displays a windows notification when a new comment or model notification is received. 
 
 ## Installation
 
